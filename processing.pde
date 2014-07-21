@@ -5,7 +5,7 @@ int randX, randY;
 void setup () {
     size (640, 360);
     background (255);
-    img = loadImage("C:\\Users\\scamper\\Documents\\GitHub\\processing\\asyn-spl.jpg");
+    img = loadImage("asyn-spl.jpg");
 }
 
 void draw() {

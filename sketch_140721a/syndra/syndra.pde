@@ -1,3 +1,4 @@
+/*@pjs preload="asyn-spl.jpg";*/
 PImage img;
 int randX, randY;
 
